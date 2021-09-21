@@ -1,16 +1,16 @@
-Hi there :smile:, I'm Shubham Singh, a Technology Enthusiast :rocket: from Bhopal, Madhya Pradesh. Currently, I'm Computer Science major at The University of Texas at Dallas.
+Hi there :smile:, I'm Shubham Singh, a Technology Enthusiast :rocket: from Bhopal, Madhya Pradesh. Currently, I'm a Computer Science major at The University of Texas at Dallas.
 
 ![picture alt](https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966)
 
 About Me!
 
-I completed my engineering from Institute of Engineering and Technology,DAVV, Indore in Electronics and Telecommunication Engineering.
+I completed my engineering from the Institute of Engineering and Technology, DAVV, Indore in Electronics and Telecommunication Engineering.
 
-:seedling: I hacve worked as Software developer in Accenture for the past 2 years. I explored the relams of MERN Springboot and AWS during my tenure
+:seedling:  I have worked as a Software Developer in Accenture for the past two years. I explored the realms of MERN Springboot and AWS during my tenure.
 
-:thinking:My interests are DevOps technologies, Artificial Intelligence and developing some useful and cool stuff xD
+:thinking:My interests are DevOps technologies, Artificial Intelligence, and developing some useful and cool stuff xD.
 
-:speech_balloon: Ask me about anything, I love to answer!
+:speech_balloon:  Ask me about anything; I love to answer!
 
 :mailbox: Email me at shubham.acsingh@gmail.com.
 
